@@ -1,2 +1,1 @@
-#!/bin/bash
-displaying  alx system engineering devops
+my second readme

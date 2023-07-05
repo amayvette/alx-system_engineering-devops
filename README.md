@@ -1,2 +1,1 @@
-#!/bin/bash
-creating and saving scripts
+my first readme
